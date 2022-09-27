@@ -1,0 +1,302 @@
+{
+    "Cliente1": {
+        "id_cliente": "1",
+        "nombre_cliente": "Polly Rodriguez",
+        "img_color": "3",
+        "img_bw": "2"
+    },
+    "Cliente2": {
+        "id_cliente": "2",
+        "nombre_cliente": "Yang Wiggins",
+        "img_color": "1",
+        "img_bw": "4"
+    },
+    "Cliente3": {
+        "id_cliente": "3",
+        "nombre_cliente": "Douglas Dominguez",
+        "img_color": "0",
+        "img_bw": "3"
+    },
+    "Cliente4": {
+        "id_cliente": "4",
+        "nombre_cliente": "Faith Hopkins",
+        "img_color": "1",
+        "img_bw": "3"
+    },
+    "Cliente5": {
+        "id_cliente": "5",
+        "nombre_cliente": "Sandy Mason",
+        "img_color": "1",
+        "img_bw": "4"
+    },
+    "Cliente6": {
+        "id_cliente": "6",
+        "nombre_cliente": "Stefanie Wise",
+        "img_color": "1",
+        "img_bw": "0"
+    },
+    "Cliente7": {
+        "id_cliente": "7",
+        "nombre_cliente": "Leach Ross",
+        "img_color": "3",
+        "img_bw": "4"
+    },
+    "Cliente8": {
+        "id_cliente": "8",
+        "nombre_cliente": "Tabatha Pickett",
+        "img_color": "3",
+        "img_bw": "2"
+    },
+    "Cliente9": {
+        "id_cliente": "9",
+        "nombre_cliente": "Tommie Mcpherson",
+        "img_color": "1",
+        "img_bw": "1"
+    },
+    "Cliente10": {
+        "id_cliente": "10",
+        "nombre_cliente": "Shannon Johnston",
+        "img_color": "0",
+        "img_bw": "0"
+    },
+    "Cliente11": {
+        "id_cliente": "11",
+        "nombre_cliente": "Leigh Bright",
+        "img_color": "1",
+        "img_bw": "4"
+    },
+    "Cliente12": {
+        "id_cliente": "12",
+        "nombre_cliente": "Alyce Alford",
+        "img_color": "3",
+        "img_bw": "0"
+    },
+    "Cliente13": {
+        "id_cliente": "13",
+        "nombre_cliente": "Haley Rosario",
+        "img_color": "0",
+        "img_bw": "4"
+    },
+    "Cliente14": {
+        "id_cliente": "14",
+        "nombre_cliente": "Durham Logan",
+        "img_color": "3",
+        "img_bw": "2"
+    },
+    "Cliente15": {
+        "id_cliente": "15",
+        "nombre_cliente": "Elinor Ford",
+        "img_color": "0",
+        "img_bw": "0"
+    },
+    "Cliente16": {
+        "id_cliente": "16",
+        "nombre_cliente": "Noelle Morse",
+        "img_color": "0",
+        "img_bw": "1"
+    },
+    "Cliente17": {
+        "id_cliente": "17",
+        "nombre_cliente": "Gutierrez Casey",
+        "img_color": "3",
+        "img_bw": "4"
+    },
+    "Cliente18": {
+        "id_cliente": "18",
+        "nombre_cliente": "Long Meyer",
+        "img_color": "3",
+        "img_bw": "0"
+    },
+    "Cliente19": {
+        "id_cliente": "19",
+        "nombre_cliente": "Geraldine Pierce",
+        "img_color": "3",
+        "img_bw": "1"
+    },
+    "Cliente20": {
+        "id_cliente": "20",
+        "nombre_cliente": "Roman Branch",
+        "img_color": "3",
+        "img_bw": "2"
+    },
+    "Cliente21": {
+        "id_cliente": "21",
+        "nombre_cliente": "Pruitt Perez",
+        "img_color": "4",
+        "img_bw": "2"
+    },
+    "Cliente22": {
+        "id_cliente": "22",
+        "nombre_cliente": "Nola Winters",
+        "img_color": "3",
+        "img_bw": "1"
+    },
+    "Cliente23": {
+        "id_cliente": "23",
+        "nombre_cliente": "Gay Mcmillan",
+        "img_color": "0",
+        "img_bw": "1"
+    },
+    "Cliente24": {
+        "id_cliente": "24",
+        "nombre_cliente": "Carolyn Harmon",
+        "img_color": "3",
+        "img_bw": "2"
+    },
+    "Cliente25": {
+        "id_cliente": "25",
+        "nombre_cliente": "Jolene Mccall",
+        "img_color": "0",
+        "img_bw": "0"
+    },
+    "Cliente26": {
+        "id_cliente": "26",
+        "nombre_cliente": "Evelyn Fitzgerald",
+        "img_color": "0",
+        "img_bw": "1"
+    },
+    "Cliente27": {
+        "id_cliente": "27",
+        "nombre_cliente": "Hudson Lancaster",
+        "img_color": "1",
+        "img_bw": "1"
+    },
+    "Cliente28": {
+        "id_cliente": "28",
+        "nombre_cliente": "Ellison Hood",
+        "img_color": "3",
+        "img_bw": "0"
+    },
+    "Cliente29": {
+        "id_cliente": "29",
+        "nombre_cliente": "Whitney Clayton",
+        "img_color": "0",
+        "img_bw": "4"
+    },
+    "Cliente30": {
+        "id_cliente": "30",
+        "nombre_cliente": "Moore Horton",
+        "img_color": "0",
+        "img_bw": "4"
+    },
+    "Cliente31": {
+        "id_cliente": "31",
+        "nombre_cliente": "Maggie Levine",
+        "img_color": "4",
+        "img_bw": "2"
+    },
+    "Cliente32": {
+        "id_cliente": "32",
+        "nombre_cliente": "Andrews Vance",
+        "img_color": "2",
+        "img_bw": "1"
+    },
+    "Cliente33": {
+        "id_cliente": "33",
+        "nombre_cliente": "Dixie Howard",
+        "img_color": "0",
+        "img_bw": "4"
+    },
+    "Cliente34": {
+        "id_cliente": "34",
+        "nombre_cliente": "Heidi Lowery",
+        "img_color": "4",
+        "img_bw": "2"
+    },
+    "Cliente35": {
+        "id_cliente": "35",
+        "nombre_cliente": "Bennett Malone",
+        "img_color": "4",
+        "img_bw": "2"
+    },
+    "Cliente36": {
+        "id_cliente": "36",
+        "nombre_cliente": "Witt Forbes",
+        "img_color": "1",
+        "img_bw": "0"
+    },
+    "Cliente37": {
+        "id_cliente": "37",
+        "nombre_cliente": "Erma Barron",
+        "img_color": "1",
+        "img_bw": "4"
+    },
+    "Cliente38": {
+        "id_cliente": "38",
+        "nombre_cliente": "Mabel Nicholson",
+        "img_color": "2",
+        "img_bw": "0"
+    },
+    "Cliente39": {
+        "id_cliente": "39",
+        "nombre_cliente": "Maddox Frazier",
+        "img_color": "1",
+        "img_bw": "1"
+    },
+    "Cliente40": {
+        "id_cliente": "40",
+        "nombre_cliente": "Brigitte Wheeler",
+        "img_color": "4",
+        "img_bw": "3"
+    },
+    "Cliente41": {
+        "id_cliente": "41",
+        "nombre_cliente": "Christa Mendoza",
+        "img_color": "2",
+        "img_bw": "3"
+    },
+    "Cliente42": {
+        "id_cliente": "42",
+        "nombre_cliente": "Etta Blake",
+        "img_color": "3",
+        "img_bw": "0"
+    },
+    "Cliente43": {
+        "id_cliente": "43",
+        "nombre_cliente": "Macdonald Murray",
+        "img_color": "1",
+        "img_bw": "1"
+    },
+    "Cliente44": {
+        "id_cliente": "44",
+        "nombre_cliente": "Garza York",
+        "img_color": "2",
+        "img_bw": "0"
+    },
+    "Cliente45": {
+        "id_cliente": "45",
+        "nombre_cliente": "Hatfield Sykes",
+        "img_color": "1",
+        "img_bw": "0"
+    },
+    "Cliente46": {
+        "id_cliente": "46",
+        "nombre_cliente": "Washington Dickerson",
+        "img_color": "3",
+        "img_bw": "0"
+    },
+    "Cliente47": {
+        "id_cliente": "47",
+        "nombre_cliente": "Ethel Cortez",
+        "img_color": "3",
+        "img_bw": "2"
+    },
+    "Cliente48": {
+        "id_cliente": "48",
+        "nombre_cliente": "Vicky Jimenez",
+        "img_color": "4",
+        "img_bw": "4"
+    },
+    "Cliente49": {
+        "id_cliente": "49",
+        "nombre_cliente": "Romero Sanders",
+        "img_color": "2",
+        "img_bw": "0"
+    },
+    "Cliente50": {
+        "id_cliente": "50",
+        "nombre_cliente": "Shana Burke",
+        "img_color": "0",
+        "img_bw": "4"
+    }
+}
